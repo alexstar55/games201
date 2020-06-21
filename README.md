@@ -1,3 +1,4 @@
+## 这里记录课程笔记，摘要，资料搜集等内容，以下摘自[课程git](http://games-cn.org/games201/)，为便于查找
 # GAMES201线上课程：高级物理引擎实战指南2020 
 
 **课程主页**：http://games-cn.org/games201/
